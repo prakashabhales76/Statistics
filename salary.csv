@@ -1,0 +1,206 @@
+Salary,Age,Experience,Highest_Degree,Designation,Upskilling_Certification_Courses
+0,22,0,Degree,Intern,0
+0,22,0,Degree,Intern,0
+22000,24,2,Degree,Associates,1
+0,23,1,Degree,Intern,0
+48000,26,4,Degree,Manager,3
+55000,27,5,Degree,Manager,3
+21000,25,3,Degree,Associates,1
+18000,26,4,Degree,Associates,1
+15000,24,2,Degree,Associates,1
+43000,33,10,Degree,Manager,3
+52000,32,10,Degree,Manager,2
+95000,23,7,Degree,Senior Manager,7
+29000,23,1,Degree,Associates,2
+22000,23,2,Degree,Associates,1
+48000,33,11,Degree,Manager,5
+51000,34,12,Masters,Manager,5
+50000,35,13,Masters,Manager,6
+57000,36,11,Masters,Manager,4
+56000,37,13,Masters,Manager,3
+43000,36,11,Degree,Manager,3
+52000,38,12,Degree,Manager,4
+70000,36,11,Degree,Senior Manager,5
+39000,27,5,Masters,Manager,3
+52000,44,21,Degree,Manager,3
+77000,43,16,Degree,Senior Manager,7
+81000,45,21,Degree,Senior Manager,7
+85000,41,16,Degree,Senior Manager,8
+110000,46,24,Degree,Senior Manager,9
+76000,42,20,Degree,Senior Manager,6
+80000,47,22,Degree,Senior Manager,6
+50000,43,20,Degree,Manager,4
+45000,48,26,Degree,Manager,3
+52000,44,22,Degree,Manager,4
+43000,49,25,Degree,Manager,3
+52000,37,14,Masters,Manager,3
+42000,35,13,Masters,Manager,3
+39000,36,12,Masters,Manager,4
+52000,26,4,Masters,Associates,3
+21000,27,3,Degree,Associates,3
+18000,25,3,Degree,Associates,3
+18000,29,7,Degree,Associates,1
+57000,55,33,Masters,Associates,0
+26000,23,1,Degree,Associates,1
+38000,57,35,Degree,Manager,3
+43000,26,4,Degree,Manager,3
+0,22,0,Degree,Intern,0
+0,22,0,Degree,Intern,0
+0,23,1,Degree,Intern,1
+0,22,0,Degree,Intern,0
+48000,48,26,Masters,Senior Manager,5
+21000,24,2,Degree,Associates,1
+25000,29,7,Degree,Associates,1
+27000,27,5,Degree,Associates,1
+26000,25,3,Degree,Associates,1
+24000,26,4,Degree,Associates,1
+18000,26,4,Degree,Associates,1
+43000,27,5,Degree,Manager,3
+22000,25,3,Degree,Associates,3
+22000,29,6,Degree,Associates,3
+23000,35,11,Degree,Associates,3
+52000,53,25,Degree,Manager,2
+48000,37,15,Masters,Senior Manager,6
+51000,36,14,Masters,Senior Manager,4
+50000,38,16,Masters,Senior Manager,3
+57000,36,14,Masters,Senior Manager,3
+56000,27,5,Masters,Associates,1
+23000,24,1,Masters,Associates,0
+23000,25,1,Masters,Associates,0
+23000,25,1,Masters,Associates,0
+21000,24,2,Degree,Associates,0
+52000,26,4,Degree,Manager,4
+0,22,0,Degree,Intern,0
+23000,25,1,Masters,Associates,0
+63000,43,21,Degree,Senior Manager,5
+71000,48,26,Degree,Senior Manager,5
+0,23,1,Degree,Intern,0
+52000,29,7,Degree,Manager,2
+43000,37,15,Degree,Manager,2
+52000,35,11,Degree,Manager,2
+42000,36,12,Degree,Manager,2
+39000,26,3,Masters,Manager,2
+52000,27,5,Degree,Manager,2
+48000,25,2,Degree,Manager,2
+21000,29,6,Degree,Associates,1
+20000,24,2,Degree,Associates,1
+27000,23,1,Degree,Associates,1
+26000,27,5,Degree,Associates,1
+18000,28,4,Degree,Associates,1
+42000,51,29,Degree,Manager,3
+64000,42,20,Degree,Senior Manager,3
+55000,47,25,Degree,Manager,3
+15000,24,2,Degree,Associates,1
+15000,23,1,Degree,Associates,1
+88000,57,35,Degree,Senior Manager,5
+90000,56,34,Degree,Senior Manager,5
+95000,51,29,Degree,Senior Manager,5
+22000,26,4,Degree,Associates,0
+110000,47,25,Masters,Senior Manager,7
+100000,43,21,Masters,Senior Manager,6
+85000,48,26,Masters,Senior Manager,7
+100000,44,22,Masters,Senior Manager,6
+85000,49,27,Masters,Senior Manager,7
+90000,37,15,Masters,Senior Manager,6
+42000,35,13,Masters,Manager,3
+51000,36,14,Masters,Manager,3
+43000,26,4,Degree,Manager,3
+52000,27,5,Degree,Manager,3
+42000,25,3,Degree,Manager,4
+39000,49,27,Masters,Manager,3
+52000,55,33,Degree,Senior Manager,6
+48000,53,31,Degree,Senior Manager,5
+51000,37,15,Degree,Manager,7
+50000,36,14,Degree,Manager,2
+57000,38,16,Degree,Manager,2
+56000,36,14,Masters,Manager,2
+51000,27,5,Masters,Manager,2
+110000,36,14,Masters,Senior Manager,5
+100000,33,11,Masters,Senior Manager,6
+85000,33,11,Masters,Senior Manager,6
+100000,31,9,Masters,Senior Manager,6
+64000,36,14,Masters,Manager,3
+55000,42,20,Masters,Manager,3
+43000,47,25,Degree,Manager,3
+52000,38,16,Degree,Manager,3
+42000,36,14,Degree,Manager,3
+39000,27,5,Masters,Manager,3
+22000,23,1,Degree,Associates,1
+28000,23,1,Degree,Associates,1
+51000,45,23,Degree,Manager,1
+50000,41,19,Degree,Manager,3
+57000,46,24,Degree,Manager,3
+56000,42,20,Degree,Manager,2
+85000,47,25,Degree,Senior Manager,5
+52000,33,11,Masters,Manager,3
+28000,22,0,Degree,Associates,0
+23000,22,0,Degree,Associates,0
+72000,49,27,Degree,Senior Manager,4
+75000,37,15,Degree,Senior Manager,3
+43000,35,13,Degree,Manager,3
+52000,36,14,Degree,Manager,2
+23000,26,4,Degree,Associates,1
+31000,27,5,Degree,Associates,1
+21000,25,3,Degree,Associates,1
+74000,22,0,Degree,Senior Manager,3
+0,22,0,Degree,Intern,0
+26000,33,11,Degree,Associates,1
+23000,22,0,Degree,Associates,0
+23000,22,0,Degree,Associates,0
+23000,22,0,Degree,Associates,0
+18000,23,1,Degree,Associates,0
+23000,22,0,Degree,Associates,0
+23000,22,0,Degree,Associates,0
+23000,22,0,Degree,Associates,0
+42000,57,35,Degree,Manager,2
+39000,56,34,Degree,Manager,3
+82000,51,29,Degree,Senior Manager,5
+80000,42,20,Degree,Senior Manager,5
+75000,47,25,Degree,Senior Manager,5
+52000,43,21,Degree,Manager,3
+63000,38,16,Masters,Manager,3
+72000,34,12,Masters,Manager,2
+65000,49,27,Masters,Manager,2
+68000,37,15,Masters,Manager,3
+110000,35,13,Masters,Senior Manager,4
+100000,43,21,Masters,Senior Manager,4
+85000,48,26,Masters,Senior Manager,4
+100000,44,22,Masters,Senior Manager,4
+48000,49,27,Degree,Manager,4
+51000,37,15,Degree,Manager,2
+50000,35,13,Degree,Manager,2
+93000,36,14,Masters,Senior Manager,4
+25000,26,4,Degree,Associates,0
+51000,27,5,Degree,Manager,1
+57000,25,3,Degree,Manager,3
+63000,49,27,Degree,Senior Manager,1
+18000,25,3,Degree,Associates,1
+15000,53,31,Masters,Senior Manager,4
+18000,37,15,Masters,Senior Manager,4
+78000,36,14,Masters,Senior Manager,4
+38000,38,16,Masters,Manager,1
+51000,36,14,Masters,Manager,2
+25000,27,5,Masters,Associates,0
+71000,44,22,Masters,Manager,3
+69000,43,21,Masters,Manager,3
+15000,24,2,Degree,Associates,1
+15000,23,1,Degree,Associates,1
+18000,26,4,Degree,Associates,0
+43000,42,20,Masters,Manager,1
+60000,47,25,Degree,Manager,3
+44000,38,16,Degree,Manager,3
+56000,31,9,Degree,Manager,3
+23000,27,5,Degree,Associates,0
+53000,31,9,Degree,Manager,3
+54000,33,11,Degree,Manager,3
+58000,45,23,Masters,Manager,3
+51000,41,19,Masters,Manager,3
+45000,46,24,Masters,Manager,3
+31000,42,20,Masters,Manager,0
+47000,47,25,Masters,Manager,3
+54000,43,21,Masters,Manager,3
+18000,23,1,Degree,Associates,0
+0,22,0,Degree,Intern,0
+0,22,0,Degree,Intern,0
+65000,37,15,Masters,Manager,4
+61000,35,13,Degree,Manager,4
